@@ -1,0 +1,5 @@
+﻿Summary Report:
+
+With the output generated  by RASA NLU and Spacy model, intent recognition gave better results than entity extraction. With more training data and fine -tuning the model the results can be improved. 
+
+
